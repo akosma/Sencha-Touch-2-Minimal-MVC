@@ -1,0 +1,8 @@
+#loading {
+	height: 100%;
+}
+#loading img {
+	position: absolute;
+	top: 45%;
+	left: 45%;
+}
